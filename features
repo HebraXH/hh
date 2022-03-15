@@ -1,0 +1,86 @@
+[ PROJECT DELTA]
+  - Visuals (CUSTOM MADE AND OPTIMIZED ESP LIBRARY BY YOURS TRULY <3)
+      - Players
+           * Visible check
+           * Names (Location/Color/Visibility/Outline/Text Size)
+           * Boxes (Filled/Color/Visibility/Thickness)
+           * Healthbars (Location/Color/Visibility/Thickness)
+           * Distance
+           * Health
+           * Show held item
+      - AI
+          - Anton
+                   * Visible check
+                   * Names (Location/Color/Visibility/Outline/Text Size)
+                   * Boxes (Filled/Color/Visibility/Thickness)
+                   * Healthbars (Location/Color/Visibility/Thickness)
+                   * Distance
+                   * Health
+                   * Show held item
+          - Wasteland Bandits
+                   * Visible check
+                   * Names (Location/Color/Visibility/Outline/Text Size)
+                   * Boxes (Filled/Color/Visibility/Thickness)
+                   * Healthbars (Location/Color/Visibility/Thickness)
+                   * Distance
+                   * Health
+                   * Show held item
+  - Other
+      - Landmines
+      - Dropped Items
+      - Containers
+
+  - Crosshair
+      - Styles (dot & cross)
+      - Primary Color
+      - Secondary color
+  - Aim
+    - Players
+         * Silent Aim
+         * Aimbot (keybind)
+         * Visible check
+         * Hitpart (head/upper torso/lower torso)
+         * Sensitivity
+         * Show FOV (color)
+         * FOV
+    - AI
+         * Silent Aim
+         * Aimbot (keybind)
+         * Visible check
+         * Hitpart (head/upper torso/lower torso)
+         * Sensitivity
+         * Show FOV (color)
+         * FOV
+  - Misc
+      - Lighting (All of these can be toggled off/on)
+           * Always day
+           * Shadows
+           * Bloom
+           * Sunrays
+           * Hurt effect
+           * Blur
+           * Skyboxes ("Default", "No Sky", "Vibe", "Scary", "Minecraft", "Spongebob", "Galaxy", "Rock Eating Pancakes", "Pink/Vibe2", "Among Us", "Sus")
+           * Atmosphere
+  - Weapon
+     * No recoil
+     * No bob
+     * Instant aim
+     * Fast bullet
+     * No Bullet drop
+     * Bullet Y Offset
+     * Full auto
+     * Custom fire rate
+  - Character
+     * Change FOV
+     * Zoom (keybind)
+     * Peak (keybind)
+     * Always sprint/omni-sprint
+     * Antiaim (direction)
+     * Autohop (speed/height/keybind)
+  - Game
+     * No Visors
+     * Remove Trees/Bushes
+     * Inventory List (Radius/FOV/FOV Color/Show FOV)
+  - Config
+     * Save
+     * Load
