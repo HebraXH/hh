@@ -72,8 +72,8 @@
      * Custom fire rate
   - Character
      * Change FOV
-     * Zoom (keybind)
-     * Peak (keybind)
+     * Zoom (keybind/amount)
+     * Peak (keybind/amount)
      * Always sprint/omni-sprint
      * Antiaim (direction)
      * Autohop (speed/height/keybind)
